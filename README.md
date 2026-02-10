@@ -1,9 +1,9 @@
-## Sales Analysis Project with Power BI
+# Sales Analysis Project with Power BI
 
 In this project, I have created a sales performance dashboard using the Adventure Works dataset. I used Power BI's visualization tools for data analysis and also leveraged DAX for complex calculations and custom metrics.
 The goal of this project is to build an interactive dashboard that allows managers and analysts to visually analyze sales trends, product performance, sales teams, and customer behavior.
 
-# Features:
+## Features:
 
 Sales trend analysis by month, region, and categories
 
